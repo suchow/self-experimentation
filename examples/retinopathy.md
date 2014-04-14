@@ -1,0 +1,1 @@
+K.J.W. Craik 1966.On the effects of looking at the sun. In S.L. Sherwood (Ed.), The nature of psychology: A selection of papers, essays and other writings by the late Kenneth J.W. Craik, Cambridge University, Cambridge (1966)

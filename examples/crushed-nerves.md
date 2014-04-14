@@ -1,0 +1,1 @@
+There is also a famous experiment by Head, also at Cambridge U, in which he crushed the sensory nerves of his arm and mapped the gradual regaining of sensation of touch and temperature. 
