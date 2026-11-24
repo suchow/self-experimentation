@@ -1,0 +1,9 @@
+# Anstis negative-world source audit
+
+Reviewed 24 November 2026. The entry has checkable support, but its sources should be distinguished before revision.
+
+The [author-hosted 1992 chapter manuscript](https://anstislab.ucsd.edu/files/2012/11/1992-Visual-adaptation-to-a-negative-brightness-reversed-world.pdf) contains unfinished placeholders. The final printed chapter was not inspected. Its methods describe a camera viewfinder for walking, a television and mirror for seated activities, and restricted viewing of television for passive exposure (PDF pp. 2–3). Its diary supports the night blindfold, dark shower, unusual faces, and altered shadows (pp. 4–7). Celebrity recognition was difficult, with some successful identifications (pp. 6–7). The acknowledgments mention presentation of some work in May 1990 (p. 9).
+
+Denise Grady’s [Discover interview, published 1 June 1993](https://www.discovermagazine.com/the-vision-thing-mainly-in-the-brain-40060), supports the narrative of three days with camera-connected goggles, complementary colours, disturbed gaze perception, frightening stairs, little adaptation, and a postdoctoral participant’s similar experience over eight days. It also supports the quotation in the entry and preserves uncertainty about longer exposure. These details are reported interview evidence; underlying measurements and the other participant’s record were not inspected. The article places the decision in the previous year, suggesting 1992.
+
+The relationship between these apparatus descriptions and dates remains unresolved. They may describe different exposures. Do not present their differences as a demonstrated contradiction. Attribute the three-day narrative to the interview. Check the final chapter before combining the accounts. The detailed Stratton adaptation comparison remains to be checked against his original papers.
