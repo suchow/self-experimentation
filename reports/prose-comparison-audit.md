@@ -1,13 +1,15 @@
 # Prose comparison audit
 
-Reviewed 24 November 2026. Entries 146–160 match the current draft hashes. All twelve displayed original texts match the saved drafts; Simpson, bee-sting Smith, and Tang have no displayed edits. Citations, links, and follow-up notes are preserved. Historical claims were not checked in this prose audit.
+Reviewed 24 November 2026. The comparison audit extends through all 179 entries. No proposed edit has been applied to an experiment entry. Historical claims were not checked in this prose audit.
 
-Three proposed edits need attention before application:
+The final 19 comparisons match the current draft hashes. Their displayed originals and revisions match the book files and proposed JSON texts, respectively. URLs are preserved. The proposed Traver revision removes a general closing moral; its historical account remains.
 
-- In `shulgin-pihkal.md`, “Each wrote a report” has a broader possible antecedent than the original reference to the group of friends. Prefer “Each member of the group wrote a report”.
-- In `stark-diet.md`, splitting the sentence removes the explicit contrast between Stark’s journal and Hewson’s account. Preserve the contrast with “William Hewson, however, …”.
-- In `spallanzani-digestion.md`, the split reduces the explicit connection between the absence of human experiments and his decision to test himself. Preserve that stated motive in the revision.
+The revised comparisons for entries 146–155 resolve the three wording concerns:
 
-Several existing lists still lack serial commas, including lists in Shulgin, Smith, Stark, and Stefansson. The Stevens entry still contains a scratch line, an erroneous citation, its correction, and a note describing unresolved evidence. Those materials were preserved for follow-up.
+- In `shulgin-pihkal.md`, “Each member of the group wrote a report” identifies the group of friends explicitly.
+- In `stark-diet.md`, “However, William Hewson, who bled him on the 18th, understood him to have eaten three or four pounds of it” preserves the contrast with Stark’s journal.
+- In `spallanzani-digestion.md`, “To fill that gap, he began on himself, with some apprehension” preserves the stated motive.
 
-The comparison audit now extends through entry 160. Entries 161–179 remain in prose review. No proposed edit has been applied to an experiment entry. The separate Anstis source audit is recorded in `research_notes/anstis-negative-world-source-audit.md`.
+The ten revised HTML pairs match the current originals and proposed JSON texts. Source hashes and URLs also match. The identified serial-comma omissions in Shulgin, Simpson, both Smith entries, Stark, and Stefansson are corrected in the proposed artifacts. Simpson and bee-sting Smith now have displayed edits; Tang remains unchanged.
+
+The Stevens entry still contains a scratch line, an erroneous citation, its correction, and a note describing unresolved evidence. Those materials remain for follow-up. The separate Anstis source audit is recorded in `research_notes/anstis-negative-world-source-audit.md`.
