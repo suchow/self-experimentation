@@ -25,3 +25,9 @@ The 1982 abstract, retrieved in a subsequent check, supports errors exceeding 20
 Whitham et al. (2011), abstract and Experimental Procedure, confirms six awake volunteers under full neuromuscular paralysis. Its abstract reports different experiences across participants and lighting conditions: environmental movement in one participant under illumination, and target-light movement in four under darkness. This supports the entry’s limited statement about variability. It does not establish a direct replication of the 1976 conditions. Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC3232712/
 
 A second read-only review confirmed the 1976 OCR findings but did not obtain page images. Methods and Results describe overlapping experiment series differently; the neutral wording “an initial experiment” avoids assigning an unsupported overall session number. Numerical details remain pending image inspection.
+
+## Stray chemistry citation
+
+The ACS publisher record identifies *Journal of the American Chemical Society*, 102(4), 1436–1439 (1980) as Corey, Clark, Goto, Marfat, Mioskowski, Samuelsson, and Hammarstroem’s paper on stereospecific synthesis of leukotriene C-1: https://pubs.acs.org/doi/10.1021/ja00524a045
+
+Thus, the journal, volume, year, and starting page in the malformed reference belong to a chemistry paper. Its supplied author list also differs from the publisher record. The oculoparalytic title belongs to Matin et al. (1982), whose corrected citation is already present. The mechanism by which these fields were combined is unknown; calling it a database error is not established by this check. Preserve this record of the malformed reference, but omit that reference and its speculative explanation from the proposed reader text.
