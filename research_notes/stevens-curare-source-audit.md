@@ -14,4 +14,12 @@ A tourniquet protected his right arm from the drug. He communicated by hand flex
 
 The abstract distinguishes displacement following successful eye movement under partial paralysis from displacement following intended movement under complete paralysis. The entry conflates these conditions. Page 95 also records no displacement in the first experiment; a uniform account obscures variation between sessions.
 
-These findings come from OCR, which contains obvious transcription errors. Numerical doses and apparatus details require checking against page images before inclusion. The 1982 citation error and the 2011 comparison still need a separate audit.
+These findings come from OCR, which contains obvious transcription errors. Numerical doses and apparatus details require checking against page images before inclusion. The later studies are assessed below.
+
+## Later studies
+
+The PubMed record confirms the corrected Matin et al. citation: *Science*, 216(4542), 198–201, 9 April 1982, DOI 10.1126/science.7063881. Its six authors match the corrected reference already in the entry. Source: https://pubmed.ncbi.nlm.nih.gov/7063881/
+
+The linked 1982 PDF was inaccessible during this check. The claimed error exceeding 20 degrees and restoration of accurate localization in a structured field remain unverified against that paper. The identity of the unrelated chemistry reference has not been established; remove it only after documenting its provenance.
+
+Whitham et al. (2011), abstract and Experimental Procedure, confirms six awake volunteers under full neuromuscular paralysis. Its abstract reports different experiences across participants and lighting conditions: environmental movement in one participant under illumination, and target-light movement in four under darkness. This supports the entry’s limited statement about variability. It does not establish a direct replication of the 1976 conditions. Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC3232712/
