@@ -35,3 +35,13 @@ The Smithsonian Institution Archives finding aid for Record Unit 7298, Charles P
 Source: https://sirismm.si.edu/EADpdfs/SIA.FARU7298.pdf
 
 The nonburrowing-mite assertion remains unverified. Search results expose older taxonomic and clinical literature with differing interpretations; no biological verdict is drawn from those snippets.
+
+### Fain specimen check
+
+I inspected page images of Fain (1967), *Acarologia* 9, including printed pp. 181, 192, and 200–201. Page 192 describes a preparation supplied by Baker containing two specimens collected by Traver. Fain identifies the female as *D. pteronyssinus* and the male as *D. farinae*. Page 200 repeats the distinction between the specimens collected in September 1945 and September 1946. This supports a precise statement about reassessment of those specimens, not a claim that every submitted specimen belonged to one species.
+
+The inspected passages do not establish the draft’s categorical nonburrowing assertion. They also do not establish a retrospective psychiatric diagnosis. Replace the unsupported biological clause with the documented specimen reassessment; retain Hinkle and Shelomi as the named sources of the later interpretation.
+
+Source: https://www1.montpellier.inrae.fr/CBGP/acarologia/article.php?id=3629
+
+PDF: https://www1.montpellier.inrae.fr/CBGP/acarologia/export_pdf.php?id=3629&typefile=1
