@@ -49,3 +49,7 @@ PDF: https://www1.montpellier.inrae.fr/CBGP/acarologia/export_pdf.php?id=3629&ty
 ### Applied revision
 
 The reviewed Traver proposal has been applied to `examples/traver-mites.md`. The retained account attributes symptoms and treatment effects to Traver, distinguishes Baker’s identification from Fain’s two-specimen reassessment, and names the later interpreters. The unsupported nonburrowing assertion and general closing moral are omitted. Bard reviewed the final proposal in local artifact commit 267df8a; the manager checked both marked comparisons and read the full text before application. This completes this entry’s current source pass, not the repository-wide audit.
+
+### Zetterström page-image check and application
+
+I independently read the images of printed p. 176 (1945) and p. 1338 (1946). They confirm the passages used in the reviewed proposal: unavailable imports, the September 1943 proposal, the proposed intermediate mixture, and the attributed self-test and accident account. The revised entry has been applied locally. Disputed details omitted from the revision remain research questions; they are not silently resolved. Bard reviewed the proposal, and both marked comparisons matched the original and final text before application.
