@@ -22,4 +22,8 @@ Sources:
 - https://portal.ct.gov/-/media/CAES/DOCUMENTS/Bed_Bugs/CIDS/DelusoryParasitosisNHinklepdf.pdf
 - https://pubmed.ncbi.nlm.nih.gov/22173734/
 
-A separate reviewer inspected Traver’s original report, pp. 1–8, and found self-observation and treatment trials, not deliberate self-infestation. I have independently checked Hinkle and Shelomi, but have not yet inspected those original pages. The mayfly-authority description and nonburrowing-mite assertion remain unchecked. Preserve attribution to Traver for her reported symptoms and treatment effects. Replace the broad consensus statement with named later interpretations.
+I independently inspected rendered images of Traver’s original pp. 1–8. Page 1 confirms the university affiliation, two adult female relatives, Edward W. Baker’s identification of the submitted mites, symptoms beginning in 1934, and worsening in 1943. Pages 1–3 support the reported nighttime sensations and involvement of eyes, ears, and nostrils. Pages 5–6 support her account of the dermatologist, hospital stay, neurologist referral, and rejection of the need for his services. Pages 6–8 describe self-treatment, temporary relief without complete eradication, and reported migration after mercuric-iodide soap. These establish her reports, not the biological cause of the symptoms. No deliberate self-infestation appears in these pages.
+
+Primary source: https://archive.org/download/biostor-76393/biostor-76393.pdf
+
+The mayfly-authority description and nonburrowing-mite assertion remain unchecked. Preserve attribution to Traver for reported symptoms and treatment effects. Replace the broad consensus statement with named later interpretations.
