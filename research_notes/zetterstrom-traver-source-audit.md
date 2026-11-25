@@ -27,3 +27,11 @@ I independently inspected rendered images of Traver’s original pp. 1–8. Page
 Primary source: https://archive.org/download/biostor-76393/biostor-76393.pdf
 
 The mayfly-authority description and nonburrowing-mite assertion remain unchecked. Preserve attribution to Traver for reported symptoms and treatment effects. Replace the broad consensus statement with named later interpretations.
+
+### Biographical check
+
+The Smithsonian Institution Archives finding aid for Record Unit 7298, Charles P. Alexander Papers, Series 8, printed p. 69 (PDF p. 71), describes Traver as an authority on New World mayflies and records faculty posts at Massachusetts from 1938 to 1962. This supports “an authority on New World mayflies”; the added ranking “leading” is unnecessary. The original report’s byline independently supports her zoology affiliation.
+
+Source: https://sirismm.si.edu/EADpdfs/SIA.FARU7298.pdf
+
+The nonburrowing-mite assertion remains unverified. Search results expose older taxonomic and clinical literature with differing interpretations; no biological verdict is drawn from those snippets.
